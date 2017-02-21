@@ -1,4 +1,5 @@
 ﻿<http://datadock.io/kal/local_data_1/> <http://purl.org/dc/terms/title> "DataDock Test Repository" <http://datadock.io/kal/local_data_1/metadata>.
+<http://datadock.io/kal/local_data_1/id/dataset/libraries_ncc-libraries-current_csv.csv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/local_data_1/id/resource/library/High%20Heaton> <http://datadock.io/kal/local_data_1/id/dataset/libraries_ncc-libraries-current_csv.csv/metadata>.
 <http://datadock.io/kal/local_data_1/id/dataset/publisher> <http://xmlns.com/foaf/0.1/mbox> "kal@networkedplanet.com" <http://datadock.io/kal/local_data_1/metadata>.
 <http://datadock.io/kal/local_data_1/id/resource/country/VUT> <http://datadock.io/kal/local_data_1/id/definition/2015_gdp_millions_usd_> "742"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP.csv>.
 <http://datadock.io/kal/local_data_1/id/resource/home-countries-list.csv/row_32> <http://datadock.io/kal/local_data_1/id/definition/machinereadablenumber> "12230"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv>.
