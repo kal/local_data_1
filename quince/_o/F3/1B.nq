@@ -1,2 +1,1 @@
-﻿<http://datadock.io/kal/local_data_1/id/resource/country/TJK> <http://datadock.io/kal/local_data_1/id/definition/name> "Tajikistan"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/TJK> <http://datadock.io/kal/local_data_1/id/definition/name> "Tajikistan"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
+﻿<http://datadock.io/kal/local_data_1/id/resource/country/TJK> <http://datadock.io/kal/local_data_1/id/definition/name> "Tajikistan"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
