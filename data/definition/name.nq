@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/local_data_1/id/definition/name> <http://www.w3.org/2000/01/rdf-schema#label> "name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/definitions>.
+<http://datadock.io/kal/local_data_1/id/definition/name> <http://www.w3.org/2000/01/rdf-schema#label> "Name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/definitions>.
