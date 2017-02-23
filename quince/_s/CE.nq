@@ -1,6 +1,7 @@
 ﻿<http://datadock.io/kal/local_data_1/> <http://purl.org/dc/terms/description> "Another test repository for DataDock." <http://datadock.io/kal/local_data_1/metadata>.
 <http://datadock.io/kal/local_data_1/> <http://purl.org/dc/terms/publisher> <http://datadock.io/kal/local_data_1/id/dataset/publisher> <http://datadock.io/kal/local_data_1/metadata>.
 <http://datadock.io/kal/local_data_1/> <http://purl.org/dc/terms/title> "DataDock Test Repository" <http://datadock.io/kal/local_data_1/metadata>.
+<http://datadock.io/kal/local_data_1/> <http://rdfs.org/ns/void#subset> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle%20Libraries%20List.csv> <http://datadock.io/kal/local_data_1/metadata>.
 <http://datadock.io/kal/local_data_1/> <http://rdfs.org/ns/void#subset> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle%20Libraries%20Monthly%20Issues%202008-2016.csv> <http://datadock.io/kal/local_data_1/metadata>.
 <http://datadock.io/kal/local_data_1/> <http://rdfs.org/ns/void#subset> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle%20Libraries%20Monthly%20Visits%202008-2016.csv> <http://datadock.io/kal/local_data_1/metadata>.
 <http://datadock.io/kal/local_data_1/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/local_data_1/metadata>.
