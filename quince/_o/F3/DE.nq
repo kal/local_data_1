@@ -1,2 +1,1 @@
-﻿<http://datadock.io/kal/local_data_1/id/resource/country/GRC> <http://datadock.io/kal/local_data_1/id/definition/name> "Greece"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/home-countries-list.csv/row_11> <http://datadock.io/kal/local_data_1/id/definition/country> "Greece"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv>.
+﻿<http://datadock.io/kal/local_data_1/id/resource/home-countries-list.csv/row_11> <http://datadock.io/kal/local_data_1/id/definition/country> "Greece"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv>.

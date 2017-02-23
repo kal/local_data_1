@@ -1,3 +1,1 @@
-﻿<http://datadock.io/kal/local_data_1/id/resource/country/LTU> <http://datadock.io/kal/local_data_1/id/definition/country> "LTU"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/NAM> <http://datadock.io/kal/local_data_1/id/definition/name> "Namibia"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/TJK> <http://datadock.io/kal/local_data_1/id/definition/2015_gdp_ppp_millions_usd> "24,035"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
+﻿

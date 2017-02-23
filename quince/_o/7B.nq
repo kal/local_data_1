@@ -1,4 +1,1 @@
-﻿<http://datadock.io/kal/local_data_1/id/resource/country/CYM> <http://datadock.io/kal/local_data_1/id/definition/name> "Cayman Islands"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/MHL> <http://datadock.io/kal/local_data_1/id/definition/2015_gdp_ppp_millions_usd> "207"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/SLV> <http://datadock.io/kal/local_data_1/id/definition/2015_gdp_ppp_millions_usd> "52,809"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/SLV> <http://datadock.io/kal/local_data_1/id/definition/country> "SLV"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
+﻿

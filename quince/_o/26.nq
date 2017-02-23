@@ -1,3 +1,1 @@
 ﻿<http://datadock.io/kal/local_data_1/id/definition/wi-fi_provision> <http://www.w3.org/2000/01/rdf-schema#label> "Wi-Fi Provision"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/definitions>.
-<http://datadock.io/kal/local_data_1/id/resource/country/ARE> <http://datadock.io/kal/local_data_1/id/definition/country> "ARE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/KOR> <http://datadock.io/kal/local_data_1/id/definition/gdp_ppp_ranking> "13"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.

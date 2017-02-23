@@ -1,4 +1,1 @@
 ﻿<http://datadock.io/kal/local_data_1/id/definition/no_of_pcs> <http://www.w3.org/2000/01/rdf-schema#label> "No of PCs"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/definitions>.
-<http://datadock.io/kal/local_data_1/id/resource/country/ASM> <http://datadock.io/kal/local_data_1/id/definition/2015_gdp_ppp_millions_usd> " .. "^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/ASM> <http://datadock.io/kal/local_data_1/id/definition/country> "ASM"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/ASM> <http://datadock.io/kal/local_data_1/id/definition/name> "American Samoa"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.

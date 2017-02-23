@@ -1,4 +1,1 @@
 ﻿<http://datadock.io/kal/local_data_1/id/definition/machinereadablenumber> <http://www.w3.org/2000/01/rdf-schema#label> "MachineReadableNumber"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/definitions>.
-<http://datadock.io/kal/local_data_1/id/resource/country/GIB> <http://datadock.io/kal/local_data_1/id/definition/2015_gdp_ppp_millions_usd> " .. "^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/GIB> <http://datadock.io/kal/local_data_1/id/definition/country> "GIB"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/GIB> <http://datadock.io/kal/local_data_1/id/definition/name> "Gibraltar"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.

@@ -1,6 +1,1 @@
-﻿<http://datadock.io/kal/local_data_1/id/resource/country/BTN> <http://datadock.io/kal/local_data_1/id/definition/country> "BTN"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/CAN> <http://datadock.io/kal/local_data_1/id/definition/2015_gdp_ppp_millions_usd> "1,588,596"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/JAM> <http://datadock.io/kal/local_data_1/id/definition/country> "JAM"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/MLT> <http://datadock.io/kal/local_data_1/id/definition/2015_gdp_ppp_millions_usd> "14,380"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/NCL> <http://datadock.io/kal/local_data_1/id/definition/name> "New Caledonia"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/PYF> <http://datadock.io/kal/local_data_1/id/definition/name> "French Polynesia"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
+﻿

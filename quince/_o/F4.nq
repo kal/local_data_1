@@ -1,4 +1,2 @@
 ﻿<http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv> <http://rdfs.org/ns/void#triples> "352"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv/metadata>.
 <http://datadock.io/kal/local_data_1/id/definition/totaldataset> <http://www.w3.org/2000/01/rdf-schema#label> "TotalDataset"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/definitions>.
-<http://datadock.io/kal/local_data_1/id/resource/country/NGA> <http://datadock.io/kal/local_data_1/id/definition/2015_gdp_ppp_millions_usd> "1,093,921"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/country/THA> <http://datadock.io/kal/local_data_1/id/definition/country> "THA"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/GDP_PPP_clean.csv>.
