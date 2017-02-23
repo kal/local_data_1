@@ -1,3 +1,2 @@
 ﻿<http://datadock.io/kal/local_data_1/> <http://purl.org/dc/terms/title> "DataDock Test Repository" <http://datadock.io/kal/local_data_1/metadata>.
-<http://datadock.io/kal/local_data_1/id/dataset/Newcastle%20Libraries%20List.csv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/local_data_1/id/resource/library/High%20Heaton> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle%20Libraries%20List.csv/metadata>.
 <http://datadock.io/kal/local_data_1/id/dataset/publisher> <http://xmlns.com/foaf/0.1/mbox> "kal@networkedplanet.com" <http://datadock.io/kal/local_data_1/metadata>.

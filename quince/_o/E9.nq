@@ -1,4 +1,1 @@
-﻿<http://datadock.io/kal/local_data_1/id/resource/library/Denton%20Burn> <http://datadock.io/kal/local_data_1/id/definition/type> "Partnership Library"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle%20Libraries%20List.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/library/Fenham> <http://datadock.io/kal/local_data_1/id/definition/type> "Partnership Library"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle%20Libraries%20List.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/library/High%20Heaton> <http://datadock.io/kal/local_data_1/id/definition/type> "Partnership Library"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle%20Libraries%20List.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/library/Newburn> <http://datadock.io/kal/local_data_1/id/definition/latitude> "54.982748"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle%20Libraries%20List.csv>.
+﻿
