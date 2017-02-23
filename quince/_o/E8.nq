@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/kal/local_data_1/> <http://purl.org/dc/terms/description> "Another test repository for DataDock." <http://datadock.io/kal/local_data_1/metadata>.
-<http://datadock.io/kal/local_data_1/id/resource/home-countries-list.csv/row_25> <http://datadock.io/kal/local_data_1/id/definition/machinereadable%25> "85"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv>.

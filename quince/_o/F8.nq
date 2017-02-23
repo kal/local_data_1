@@ -1,3 +1,1 @@
-﻿<http://datadock.io/kal/local_data_1/> <http://rdfs.org/ns/void#subset> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv> <http://datadock.io/kal/local_data_1/metadata>.
-<http://datadock.io/kal/local_data_1/id/definition/country> <http://www.w3.org/2000/01/rdf-schema#label> "country"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/definitions>.
-<http://datadock.io/kal/local_data_1/id/resource/home-countries-list.csv/row_10> <http://datadock.io/kal/local_data_1/id/definition/openlicensesnumber> "40414"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv>.
+﻿<http://datadock.io/kal/local_data_1/id/definition/country> <http://www.w3.org/2000/01/rdf-schema#label> "country"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/definitions>.

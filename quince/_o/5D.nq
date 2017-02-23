@@ -1,5 +1,1 @@
-﻿<http://datadock.io/kal/local_data_1/id/resource/home-countries-list.csv/row_11> <http://datadock.io/kal/local_data_1/id/definition/availabilitynumber> "585"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/home-countries-list.csv/row_16> <http://datadock.io/kal/local_data_1/id/definition/country> "Italy"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/home-countries-list.csv/row_18> <http://datadock.io/kal/local_data_1/id/definition/availability%25> "98"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/home-countries-list.csv/row_29> <http://datadock.io/kal/local_data_1/id/definition/availability%25> "98"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/home-countries-list.csv/row_30> <http://datadock.io/kal/local_data_1/id/definition/machinereadable%25> "76"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv>.
+﻿

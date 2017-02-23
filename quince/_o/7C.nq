@@ -1,4 +1,1 @@
-﻿<http://datadock.io/kal/local_data_1/id/resource/home-countries-list.csv/row_11> <http://datadock.io/kal/local_data_1/id/definition/metadatacompletenessnumber> "497"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/home-countries-list.csv/row_23> <http://datadock.io/kal/local_data_1/id/definition/machinereadablenumber> "167"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/home-countries-list.csv/row_26> <http://datadock.io/kal/local_data_1/id/definition/totaldataset> "167"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv>.
-<http://datadock.io/kal/local_data_1/id/resource/home-countries-list.csv/row_30> <http://datadock.io/kal/local_data_1/id/definition/country> "Switzerland"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/home-countries-list.csv>.
+﻿
