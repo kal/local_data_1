@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/1266M> <http://datadock.io/kal/local_data_1/id/definition/amended> "36137"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/2463M> <http://datadock.io/kal/local_data_1/id/definition/known_as> "Pond at Luckwell Road, Bedminster"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.

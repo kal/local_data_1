@@ -1,1 +1,4 @@
-﻿
+﻿<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/106M> <http://datadock.io/kal/local_data_1/id/definition/location_1> "(51.455597, -2.5941345)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/2801M> <http://datadock.io/kal/local_data_1/id/definition/location_1> "(51.452949, -2.6141475)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/5005M> <http://datadock.io/kal/local_data_1/id/definition/northing> "174301"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/5006M> <http://datadock.io/kal/local_data_1/id/definition/northing> "174301"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.

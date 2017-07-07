@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/1051M> <http://datadock.io/kal/local_data_1/id/definition/location_1> "(51.457227, -2.5827853)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/1217M> <http://datadock.io/kal/local_data_1/id/definition/northing> "172872"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.

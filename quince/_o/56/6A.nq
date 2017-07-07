@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/2673M> <http://datadock.io/kal/local_data_1/id/definition/easting> "363385"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/5504M> <http://datadock.io/kal/local_data_1/id/definition/location_1> "(51.455364, -2.6080488)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.

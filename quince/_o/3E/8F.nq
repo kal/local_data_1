@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/1032M> <http://datadock.io/kal/local_data_1/id/definition/easting> "358389"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/1941M> <http://datadock.io/kal/local_data_1/id/definition/monument_desc> "A C19 town garden laid out in 3 rectangular sections. Informal planting. {1}West Mall has probably the best C19 communal garden in Bristol. {1}Well maintained, with much recent restoration work. {1}"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.

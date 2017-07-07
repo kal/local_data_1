@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/1958M> <http://datadock.io/kal/local_data_1/id/definition/postal_address> "Bayham Road"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/5028M> <http://datadock.io/kal/local_data_1/id/definition/monument_record_no> "5028M"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.

@@ -1,1 +1,3 @@
-﻿
+﻿<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/2382M> <http://datadock.io/kal/local_data_1/id/definition/narrow_term> "Fish pond"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/2485M> <http://datadock.io/kal/local_data_1/id/definition/narrow_term> "Fish pond"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/3081M> <http://datadock.io/kal/local_data_1/id/definition/easting> "356413"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.

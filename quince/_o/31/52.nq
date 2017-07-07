@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/local_data_1/id/dataset/Newcastle_Libraries_Enquiries.csv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/local_data_1/id/resource/Newcastle_Libraries_Enquiries.csv/row_7> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle_Libraries_Enquiries.csv/metadata>.
+<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/1221M> <http://datadock.io/kal/local_data_1/id/definition/monument_record_no> "1221M"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.

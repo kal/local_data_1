@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/2046M> <http://datadock.io/kal/local_data_1/id/definition/easting> "354433"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/3116M> <http://datadock.io/kal/local_data_1/id/definition/known_as> "Zion Methodist Church, Bishopsworth Road, Bishopsworth"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.
