@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/local_data_1/id/resource/library/Walker> <http://datadock.io/kal/local_data_1/id/definition/library> "Walker"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle%20Libraries%20List.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/library/Walker> <http://datadock.io/kal/local_data_1/id/definition/library> "Walker"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle_Libraries_List.csv>.
