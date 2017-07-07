@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/local_data_1/id/resource/Newcastle_Libraries_Issues.csv/row_1450> <http://datadock.io/kal/local_data_1/id/definition/issues> "1107"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle_Libraries_Issues.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/Newcastle_Libraries_Issues.csv/row_1450> <http://datadock.io/kal/local_data_1/id/definition/month> "2016-08"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle_Libraries_Issues.csv>.

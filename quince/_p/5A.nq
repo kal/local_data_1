@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/local_data_1/> <http://rdfs.org/ns/void#subset> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle_Libraries_Enquiries.csv> <http://datadock.io/kal/local_data_1/metadata>.
+<http://datadock.io/kal/local_data_1/> <http://rdfs.org/ns/void#subset> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle_Libraries_Issues.csv> <http://datadock.io/kal/local_data_1/metadata>.

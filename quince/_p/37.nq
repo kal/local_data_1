@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/local_data_1/id/dataset/Newcastle_Libraries_Enquiries.csv> <http://rdfs.org/ns/void#triples> "5107"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle_Libraries_Enquiries.csv/metadata>.
+<http://datadock.io/kal/local_data_1/id/dataset/Newcastle_Libraries_Issues.csv> <http://rdfs.org/ns/void#triples> "5296"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle_Libraries_Issues.csv/metadata>.
