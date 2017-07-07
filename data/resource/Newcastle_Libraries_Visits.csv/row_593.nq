@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/local_data_1/id/resource/Newcastle_Libraries_Visits.csv/row_593> <http://datadock.io/kal/local_data_1/id/definition/month> "2010-06"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle_Libraries_Visits.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/Newcastle_Libraries_Visits.csv/row_593> <http://datadock.io/kal/local_data_1/id/definition/visits> "2468"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data_1/id/dataset/Newcastle_Libraries_Visits.csv>.
