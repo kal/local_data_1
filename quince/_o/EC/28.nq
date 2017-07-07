@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/1737M> <http://datadock.io/kal/local_data_1/id/definition/known_as> "Bucklewell Holy Well"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/607M> <http://datadock.io/kal/local_data_1/id/definition/latitude> "51.456358"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments_LatLong.csv>.

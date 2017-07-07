@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/1819M> <http://datadock.io/kal/local_data_1/id/definition/longitude> "-2.5466776"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments_LatLong.csv>.
+<http://datadock.io/kal/local_data_1/id/resource/monument_record_no/850M> <http://datadock.io/kal/local_data_1/id/definition/longitude> "-2.5885995"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data_1/id/dataset/Bristol_Monuments_LatLong.csv>.
